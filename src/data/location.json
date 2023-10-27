@@ -1,0 +1,15 @@
+{
+  "location": [
+    {
+      "location": "고척중학교 교차로",
+      "address": "서울특별시 구로구 고척동 76-224",
+      "installLocation": [37.49999581324621, 126.86281102222206, 2.6],
+      "deviceStatus": {
+        "name": "OOO정보통신",
+        "date": "2018.11.25",
+        "runStatus": "정상",
+        "communication": "정상"
+      }
+    }
+  ]
+}
